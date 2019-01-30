@@ -10,7 +10,7 @@ Clone this repo to your local computer.
 - cd to the cloned directory
 
 # Doing a commit - save a version of your file
-- git add File.py  - add the named file to the staging area
+- git add File.py  - add the named file to the staging area - be sure that you are in the correct directory
 - git commit -m "message" - commit the change
 
 # Doing a push to copy back to github
