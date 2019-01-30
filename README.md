@@ -12,7 +12,7 @@ Clone this repo to your local computer.
 # Doing a commit - save a version of your file
 - git add File.py  - add the named file to the staging area - be sure that you are in the correct directory
 - git status - to check the status
-- git commit -m "message" - commit the change
+- git commit -m "message" - commit the change and use message to explain what you have done since the last commit
 
 # Doing a push to copy back to github
 - git push - be sure that you are in the correct directory first
