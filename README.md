@@ -1,6 +1,6 @@
 # HW4-Winter19
 
-Modify guesswho.py.  See the instructions in Homework4-Instructions.pdf.  
+See the instructions in Homework4-Instructions.pdf.  Modify guesswho.py.  
 
 Clone this repo to your local computer.
 
